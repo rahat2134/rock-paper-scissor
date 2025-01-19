@@ -62,3 +62,12 @@ img {
 .msg-container {
     margin-top: 5rem;
 }
+
+.watermark {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 0.8rem;
+    color: #888;
+    opacity: 0.5;
+}
